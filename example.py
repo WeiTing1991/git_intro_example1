@@ -11,5 +11,5 @@ def example_method(point_x, point_y):
     print(point_x + point_y)
 
     # After you verified this method works, please delete it ;)
-    print('Yay! It works!')
     print('Yay! It works!!!!!!!!!')
+
